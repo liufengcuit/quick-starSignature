@@ -3,7 +3,7 @@ function formatNumber (n) {
   return str[1] ? str : `0${str}`
 }
 
-const host = "https://pomelocul.com"
+const host = ""
 
 export function formatTime (date) {
   const year = date.getFullYear()
